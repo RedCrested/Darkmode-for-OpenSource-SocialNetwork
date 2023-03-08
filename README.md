@@ -36,6 +36,7 @@ The component was tested in OSSN versions 6.4 and 6.6 using Awesome and GoBlue t
 
 I am selling this component for US$29.00 through the Buy me a coffee website. To purchase, visit https://www.buymeacoffee.com/redcrested/e/122267 or click on the button 
 
+[![](https://redcrested.net/res/img/button.png)](https://www.buymeacoffee.com/redcrested/e/122267)
 
 ## Contributing
 
