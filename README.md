@@ -26,6 +26,11 @@ The component was tested in OSSN versions 6.4 and 6.6 using Awesome and GoBlue t
 
 ## Version
 
+- 1.3
+    - Fixed issue on privacy box in Awesome theme. 
+    - Fixed issues on notification in Awesome theme. 
+- 1.2 
+    - Fixed issue on text in comment box in Awesome theme.
 - 1.1
     - Fixed small issues on colors of GoBlue theme 
     - Improved documentation
