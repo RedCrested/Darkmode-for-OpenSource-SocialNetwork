@@ -22,7 +22,7 @@ On [Red Crested OSSN Sandbox](https://www.redcrested.net/ossn) it's possible to 
 
 ## Limitations
 
-The component was tested in OSSN versions 6.4 and 6.6 using Awesome and GoBlue themes. Older versions or different components may require adjustments.
+The component was tested in OSSN from 6.4 to 7.2 versions using Awesome and GoBlue themes. Older versions or different components may require adjustments.
 
 ## Version
 
