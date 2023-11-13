@@ -26,6 +26,13 @@ The component was tested in OSSN versions 6.4 and 6.6 using Awesome and GoBlue t
 
 ## Version
 
+- 1.6
+    - Added support to themes of OSSN 7.2 
+- 1.5.2
+    - Fixed issues on user profile, wall and messages layout
+    - Added support to OssnSmilies and OssnPostBackground in Awesome theme
+- 1.4
+    - Fixed issue on wall in Awesome theme
 - 1.3
     - Fixed issue on privacy box in Awesome theme. 
     - Fixed issues on notification in Awesome theme. 
